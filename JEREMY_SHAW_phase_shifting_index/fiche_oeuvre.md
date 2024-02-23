@@ -1,11 +1,10 @@
 Jeremy Shaw phase shifting index 
-
-photo! ![Screenshot 2024-02-22 210940](https://github.com/djalilt/H24_TIM_exposition/assets/143510866/9d7aa4a2-dbc7-4d5d-9025-a60cedcc4d88)
+![Screenshot 2024-02-22 210940](https://github.com/djalilt/H24_TIM_exposition/assets/143510866/9d7aa4a2-dbc7-4d5d-9025-a60cedcc4d88)
 
 
 la fondrie darling, une éxposotion nommé Phase Shifting index L'exposition "Phase Shifting Index" de Jeremy Shaw est une installation immersive qui explore les notions de transcendance et de transformation de la conscience à travers une série de vidéos et d'installations. Présentée pour la première fois en 2020, cette œuvre est caractéristique du style de Shaw, qui mélange art contemporain, science, technologie, et éléments de subcultures pour interroger notre perception de la réalité et les expériences humaines limites.
 
-photo! ![20240202_152139](https://github.com/djalilt/H24_TIM_exposition/assets/143510866/9f7711d4-12dd-444d-b428-40146c5dbd23)
+![20240202_152139](https://github.com/djalilt/H24_TIM_exposition/assets/143510866/9f7711d4-12dd-444d-b428-40146c5dbd23)
 
 
 
@@ -21,13 +20,13 @@ mise en forme de l'oeuvre
 
 La mise en place de "Phase Shifting Index" par Jeremy Shaw requiert une organisation méticuleuse pour créer son ambiance immersive caractéristique. L'exposition se déploie dans un grand espace, tamisé pour mettre en valeur les vidéos projetées sur plusieurs écrans, accompagnées d'un son surround qui enveloppe le spectateur dans une expérience auditive intense. La disposition des écrans et du système audio est conçue pour engager les visiteurs, les invitant à interagir et à se déplacer dans l'espace, ce qui intensifie leur immersion. Des éléments interactifs peuvent être inclus pour pousser l'engagement encore plus loin, tandis que l'éclairage et les installations techniques sont soigneusement planifiés pour assurer une expérience fluide et captivante, fusionnant art, science et spiritualité dans une exploration profonde de la conscience humaine.
 
-Photo! ![20240202_145246](https://github.com/djalilt/H24_TIM_exposition/assets/143510866/425342e6-d63e-4c38-b1bf-46d1e0b04c97)
-![20240202_145255](https://github.com/djalilt/H24_TIM_exposition/assets/143510866/3b805c26-26f0-48e3-b72e-ece349189060)
+![20240202_145246](https://github.com/djalilt/H24_TIM_exposition/assets/143510866/425342e6-d63e-4c38-b1bf-46d1e0b04c97) ![20240202_145255](https://github.com/djalilt/H24_TIM_exposition/assets/143510866/3b805c26-26f0-48e3-b72e-ece349189060)
+
 
 
 Composant technique
 
-Photo! ![20240202_145304](https://github.com/djalilt/H24_TIM_exposition/assets/143510866/7e64969d-f8fa-4209-9cca-8c005dbd41f5)
+![20240202_145304](https://github.com/djalilt/H24_TIM_exposition/assets/143510866/7e64969d-f8fa-4209-9cca-8c005dbd41f5)
 
 
 eclerage(plusieur couleurs)
